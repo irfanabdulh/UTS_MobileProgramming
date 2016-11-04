@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">uts-7</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="Isi">
+        <item>ega</item>
+        <item>egi</item>
+        <item>ego</item>
+        <item>agi</item>
+        <item>iga</item>
+        <item>gue</item>
+    </string-array>
+</resources>
